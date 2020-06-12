@@ -5,7 +5,9 @@
   justify-self: center;
   justify-content: center;
   width: 300px;
-  margin: 15em 650px 0em 650px;
+  margin: 0 auto;
+  margin-top: 200px;
+  /* margin: 15em 650px 0em 650px; */
   /* margin: 10rem 25rem 0px 25rem; */
 }
 
